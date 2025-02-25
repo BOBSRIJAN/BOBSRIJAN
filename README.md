@@ -1,7 +1,7 @@
 # 👋 Hi, I'm SRIJAN_RAY  
 ### 🚀 Aspiring Developer | Full stack developer 
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+![Banner](img/image.png)
 
 Ambitious BCA student with a solid foundation in programming, software development, and database management. Proficient in crafting efficient, scalable solutions and passionate about leveraging technology to solve real-world problems. Seeking an entry-level role or internship to apply technical expertise, contribute to innovative IT projects, and grow as a dynamic professional in the tech industry.
 
