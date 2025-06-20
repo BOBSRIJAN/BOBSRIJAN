@@ -13,7 +13,7 @@ Ambitious BCA student with a solid foundation in programming, software developme
 
 ## 📫 How to Reach Me
 - 📧 Email: srijanray11@gmail.com  
-- 🌐 Portfolio: update later 
+- 🌐 Portfolio: https://srijan-dev.onrender.com
 - 💼 LinkedIn: [Srijan Ray](https://www.linkedin.com/in/srijan-ray-5b1967282/)
 
 ## 📊 GitHub Stats  
