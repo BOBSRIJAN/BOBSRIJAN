@@ -20,5 +20,5 @@ Ambitious BCA student with a solid foundation in programming, software developme
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BOBSRIJAN&show_icons=true&theme=radical)  
 
 
-### 🔥 Thanks for Visiting!  
+### 🔥 Thanks for Visiting!
 Feel free to explore my repositories and connect with me! 🚀
