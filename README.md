@@ -17,6 +17,8 @@ Ambitious BCA student with a solid foundation in programming, software developme
 - 💼 LinkedIn: [Srijan Ray](https://www.linkedin.com/in/srijan-ray-5b1967282/)
 
 ## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats-lime-three-92.vercel.app/api?username=BOBSRIJAN&show_icons=true&theme=radical&count_private=true&cache_seconds=1)  
+
 ![BOBSRIJAN's GitHub stats](https://github-readme-stats-srijan-git-master-bobsrijans-projects.vercel.app/api?username=BOBSRIJAN&show_icons=true&theme=radical)
 
 ### 🔥 Thanks for Visiting!
